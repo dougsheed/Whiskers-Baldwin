@@ -1,0 +1,16 @@
+<?xml version = "1.0" encoding = "UTF-8" ?>
+<rss version = "2.0">
+
+  <channel>
+    <title>Whiskers and Baldwin Facebook</title>
+    <link>http://www.facebook.com/whiskersandbaldwin.com</link>
+    <description>Whiskers and Baldwin Facebook</description>
+    <item>
+      <title>Whiskers and Baldwin Events</title>
+      <link>https://www.facebook.com/whiskersandbaldwin/pages_feed/</link>
+      <description>Upcoming Events</description>
+    </item>
+  </channel>
+</rss>
+
+<!--code structure from ww3 schools -- >
