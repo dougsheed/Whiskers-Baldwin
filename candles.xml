@@ -1,44 +1,39 @@
 <?xml version = "1.0" encoding = "UTF-8" standalone = "yes"?>
-
 <Candles>
+  <Candle> 
+    <Scent>Himalayan Cedar and Jasmine</Scent>
+    <Size>Large - 330ml </Size>
+    <Cost>€12.50</Cost>
+  </Candle>
 
-<Candle> 
-<Scent>Himalayan Cedar and Jasmine</Scent>
-<Size>Large - 330ml </Size>
-<Cost>€12.50</Cost>
-</Candle>
+  <Candle> 
+    <Scent>French Pear and Vanilla</Scent>
+    <Size>Large - 330ml </Size>
+    <Cost>€12.50</Cost>
+  </Candle>
 
-<Candle> 
-<Scent>French Pear and Vanilla</Scent>
-<Size>Large - 330ml </Size>
-<Cost>€12.50</Cost>
-</Candle>
+  <Candle> 
+    <Scent>Monkey Farts</Scent>
+    <Size>Large - 330ml </Size>
+    <Cost>€12.50</Cost>
+  </Candle>
 
-<Candle> 
-<Scent>Monkey Farts</Scent>
-<Size>Large - 330ml </Size>
-<Cost>€12.50</Cost>
-</Candle>
+  <Candle> 
+    <Scent>Pink Champagne and Pamelo/Scent>
+    <Size>Large - 330ml </Size>
+    <Cost>€12.50</Cost>
+  </Candle>
 
-<Candle> 
-<Scent>Pink Champagne and Pamelo/Scent>
-<Size>Large - 330ml </Size>
-<Cost>€12.50</Cost>
-</Candle>
+  <Candle> 
+    <Scent>Sandalwood and Black Pepper</Scent>
+    <Size>Large - 330ml </Size>
+    <Cost>€12.50</Cost>
+  </Candle>
 
-<Candle> 
-<Scent>Sandalwood and Black Pepper</Scent>
-<Size>Large - 330ml </Size>
-<Cost>€12.50</Cost>
-</Candle>
-
-<Candle> 
-<Scent>Amber Noir</Scent>
-<Size>Large - 330ml </Size>
-<Cost>€12.50</Cost>
-</Candle>
-
-
+  <Candle> 
+    <Scent>Amber Noir</Scent>
+    <Size>Large - 330ml </Size>
+    <Cost>€12.50</Cost>
+  </Candle>
 </Candles>
-
 </xml> 
